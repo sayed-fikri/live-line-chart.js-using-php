@@ -130,6 +130,7 @@ function updateChart() {
             Particle Count</div>
           <div class="card-body">
             <canvas id="chartContainer" width="100%" height="30"></canvas>
+		  <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
           </div>
           <div class="card-footer small text-muted">Updated yesterday at 12.00 PM</div>
         </div>
